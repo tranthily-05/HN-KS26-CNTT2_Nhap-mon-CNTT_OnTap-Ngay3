@@ -1,0 +1,24 @@
+=== TONG HOP ACCESS LOG ===
+
+ 
+ 2 0 2 5 - 1 0 - 1 8   0 8 : 1 7 : 5 9   [ E R R O R ]   K h o n g   t i m   t h a y   t r a n g   / l i c h - t h i   ( 4 0 4 ) 
+ 
+ 2 0 2 5 - 1 0 - 1 8   0 8 : 2 5 : 5 5   [ E R R O R ]   H e t   t h o i   g i a n   c h o   ( t i m e o u t ) 
+ 
+ 2 0 2 5 - 1 0 - 1 8   0 8 : 3 3 : 5 1   [ E R R O R ]   K e t   n o i   m a y   c h u   d u   l i e u   t h a t   b a i 
+ 
+ 2 0 2 5 - 1 0 - 1 8   0 8 : 3 7 : 1 9   [ E R R O R ]   K e t   n o i   m a y   c h u   d u   l i e u   t h a t   b a i 
+ 
+ 2 0 2 5 - 1 0 - 1 8   0 8 : 4 9 : 4 3   [ E R R O R ]   H e t   t h o i   g i a n   c h o   ( t i m e o u t ) 
+ 
+ 2 0 2 5 - 1 0 - 1 8   0 8 : 5 3 : 1 1   [ E R R O R ]   H e t   t h o i   g i a n   c h o   ( t i m e o u t ) 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
